@@ -17,7 +17,7 @@
 	<properties>
 		<java.version>1.8</java.version>
 		<mybatis.springboot.starter.version>2.1.1</mybatis.springboot.starter.version>
-		<guava.version>28.1-jre</guava.version>
+		<guava.version>29.0-jre</guava.version>
 		<druid.version>1.1.20</druid.version>
 	</properties>
 
